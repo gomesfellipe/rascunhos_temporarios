@@ -1,3 +1,6 @@
+# Projetando uma funcao para criar graficos com o teste de Tukey
+
+
 # library
 library(multcomp)
 library(multcompView)
